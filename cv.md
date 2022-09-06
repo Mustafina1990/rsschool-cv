@@ -4,3 +4,37 @@
    - Discord: Mustafina1990
    - Cell: +46(72)831-33-52
    - mystafinayulija@gmail.com
+3. **About me:**
+   > I am an enthusiastic and attentive to detail Frontend Software Engineer
+   > looking for an entry-level position in the company to use my programming skills,
+   > helping to complete projects on time and improve, hone my skills.
+4. **Skills:**
+   - HTML/CSS
+   - Git/GitHub
+   - Bootstrap
+   - JavaScript/TypeScript
+   - Angular
+   - SASS (SCSS)
+5. **Some code examples:**
+   ```
+   <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Verstka</title>
+    <link rel="stylesheet" href="zad_2.css">
+    </head>
+    <body>
+        <div>
+            <header class="head">Шапка</header>
+            <nav class="control">Блок навигации</nav>
+            <main class="main_part">
+                <section class="menu">Меню</section>
+                <section class="content">Контент</section>
+            </main>
+            <footer class="contacts">Подвал сайта</footer>
+        </div>
+    </body>
+    </html>
+   ```
