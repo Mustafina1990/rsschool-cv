@@ -38,3 +38,24 @@
     </body>
     </html>
    ```
+6. **Experience:**
+   - SheCodes, Frontend Developer course, 2022 (project weather-app https://github.com/Mustafina1990/weather-app)
+   - RsSchool, Frontend Developer course, 2022 (projects:
+     photofilter https://rolling-scopes-school.github.io/mustafina1990-JSFEPRESCHOOL/photofilter/
+     js-clock https://rolling-scopes-school.github.io/mustafina1990-JSFEPRESCHOOL/js-clock/
+     virtual-piano https://rolling-scopes-school.github.io/mustafina1990-JSFE2021Q1/virtual-piano)
+   - Frontend Developer courses, CyberBionic Systematics, 2020
+   - Assistant Chief Accountant, Nissan Motor Ukr., Kiev (01/02/2012–10/04/2012)
+   - Civil servant (Chief Specialist in Public Procurement), The Cabinet of Ministers of Ukraine, Kiev (2017 - Present)
+7. **Educational History:**
+   - RsSchool, Frontend Developer course, 2022 (Knowledge of HTML, CSS, Javascript; basic computer science theory (data structures, algorithms, maths); creation of projects)
+   - SheCodes, Frontend Developer course, 2022 (Advenced knowledge of HTML, CSS, JavaScript and responsive design; APIs; Tools (GIT, GitHub); Projects)
+   - Udemy, Angular 9, theory and practice, 2021
+   - CyberBionic Systematics, Frontend Developer courses, 2020
+   - Kyiv National University of trade and economics, Bachelor of Commercial law, 2013
+   - Kyiv National University of trade and economics, Master of Accounting and Auditing, 2012
+8. **Languages:**
+   - Ukrainian - Mother tongue
+   - Russian - Mother tongue
+   - English - Intermediate
+   - Swedish - Begginer
